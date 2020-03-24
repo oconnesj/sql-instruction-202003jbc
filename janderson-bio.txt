@@ -1,0 +1,12 @@
+Name : Jane Anderson 
+Role : Software Instructor 
+DOB : May 11, 1991
+Start: May, 1, 2017
+
+Experienced software instructor with deep knowledge of the following software products:
+
+	* Microsoft C# .Net
+	* Awesome CSS Design Skills!
+	* Git & GitHub. 
+	* Angular
+	* TypeScript 
