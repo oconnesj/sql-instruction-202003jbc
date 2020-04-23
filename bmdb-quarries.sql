@@ -1,6 +1,5 @@
-select * from movie;
-select * from credit;
-select * from actor;
+
+
 
 select concat(firstName, " ", lastName) as Name, role as Role, concat(Title, " ", year, " ", rating)as Movie, Director 
 from actor
