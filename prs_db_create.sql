@@ -74,7 +74,7 @@ create table LineItem (
     ID									int							primary key auto_increment,
 	RequestID					int							not null,
     ProductID					int							not null,
-	Quanity						int							not null,
+	Quantity						int							not null,
     foreign key (ProductID) references Product(ID),
     foreign key (RequestID) references Request(ID),
     constraint req_pdt unique (RequestID, ProductID)
